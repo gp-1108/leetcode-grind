@@ -2,7 +2,7 @@
   Author: gp-1108
   Time: O(n)
   Space: O(1)
-  Score: Faster than 100%, Memory less than 44.97%
+  Score: 100%, 44.97%
 */
 
 public class Solution27 {
