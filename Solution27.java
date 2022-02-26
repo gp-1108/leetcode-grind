@@ -5,7 +5,7 @@
   Score: 100%, 44.97%
 */
 
-public class Solution27 {
+public class Solution {
   public static int removeElement(int[] nums, int val) {
     int k = 0;
         while(k < nums.length && nums[k] != val) {

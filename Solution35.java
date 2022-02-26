@@ -4,7 +4,7 @@
  * Space: O(log n)
  * Score: 100%, 41.21%
  */
-public class Solution35 {
+public class Solution {
   public int searchInsert(int[] nums, int target) {
     if(nums.length <= 0) return 0;
     return binSearch(nums, target, 0, nums.length-1);
